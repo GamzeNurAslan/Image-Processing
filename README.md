@@ -2,11 +2,6 @@ Görüntü İşleme Nedir?
 
 Görüntü işleme, dijital görüntülerin analiz edilmesi, iyileştirilmesi ve çeşitli görevler için kullanılmak üzere dönüştürülmesidir. Görüntü işleme, genellikle aşağıdaki adımları içerir:
 
-Görüntü Ön İşleme: Gürültü giderme, kontrast ve parlaklık ayarları gibi temel düzeltmeler yapılır.
-Özellik Çıkartma: Görüntüdeki kenarlar, şekiller veya renkler gibi önemli bilgiler çıkarılır.
-Nesne Tanıma: Görüntülerdeki nesneler, yüzler veya metinler tanınır ve sınıflandırılır.
-Uygulamalar: Medikal görüntüleme, güvenlik sistemleri, otonom araçlar, endüstriyel kontrol sistemleri ve daha fazlasında kullanılır.
-
 Peki ne yapılabilir bu alanda?
 
 Nesne Tanıma:
