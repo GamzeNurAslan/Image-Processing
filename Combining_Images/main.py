@@ -3,7 +3,7 @@ import cv2
 img1 = cv2.imread('me.png')
 img2 = cv2.imread('yz1.png')
 
-totalImg = cv2.add(img1, img2)
+totalImg = cv2.add(img1, img2) #Boyutlarına dikkat edin!
 
 #print('img1', img1[160, 80])
 #print('img2', img2[160, 80])
