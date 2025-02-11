@@ -7,6 +7,7 @@ Nesne Tanıma: Görüntülerdeki nesneler, yüzler veya metinler tanınır ve s�
 Uygulamalar: Medikal görüntüleme, güvenlik sistemleri, otonom araçlar, endüstriyel kontrol sistemleri ve daha fazlasında kullanılır.
 
 Peki ne yapılabilir bu alanda?
+
 Nesne Tanıma:
 Görüntülerdeki belirli nesneleri veya kişileri tanımak (örneğin, yüz tanıma sistemleri).
 -------------------------------
