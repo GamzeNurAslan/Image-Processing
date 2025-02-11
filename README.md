@@ -38,4 +38,4 @@ Otonom araçların çevrelerini algılaması ve güvenli bir şekilde yön bulab
 Sanat ve Yaratıcılık:
 Görsellerin stilize edilmesi, efektler eklenmesi veya görüntülerin yaratıcı amaçlarla manipüle edilmesi (örneğin, Instagram filtreleri).
 
--------------------------------------------------------------**_**------------------------------------------------------------------
+------------------------------
