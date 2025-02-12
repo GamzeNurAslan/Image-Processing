@@ -3,7 +3,7 @@ from PIL import Image
 import numpy as np
 import matplotlib.pyplot as plt
 
-im1 = Image.open("C:/Users/aslan/PycharmProjects/openCV/images/yz.png")
+im1 = Image.open("../images/yz.png")
 
 ch_r, ch_g, ch_b = im1.split()
 
