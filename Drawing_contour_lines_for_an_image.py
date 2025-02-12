@@ -4,7 +4,7 @@ import numpy as np
 from matplotlib import pyplot as plt
 from skimage.color import rgb2gray
 
-im = rgb2gray(io.imread("C:/Users/aslan/PycharmProjects/openCV/images/yzx.jpg"))  
+im = rgb2gray(io.imread("../images/yzx.jpg"))  
 
 plt.figure(figsize=(20,8))
 
