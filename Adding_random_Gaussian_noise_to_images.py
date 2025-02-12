@@ -4,7 +4,7 @@ from skimage import io
 import numpy as np
 from matplotlib import pyplot as plt
 
-im = img_as_float(io.imread("C:/Users/aslan/PycharmProjects/openCV/images/yzx.jpg"))
+im = img_as_float(io.imread("../images/yzx.jpg"))
 plt.figure(figsize=(15,12))
 sigmas = [0.1, 0.25, 0.5, 1]
 for i in range(4):
