@@ -3,8 +3,8 @@ from PIL import Image
 import numpy as np
 import matplotlib.pyplot as plt
 
-im1 = Image.open("C:/Users/aslan/PycharmProjects/openCV/images/yz.png")
-im2 = Image.open("C:/Users/aslan/PycharmProjects/openCV/images/me.png").convert('RGB').resize((im1.width, im1.height))
+im1 = Image.open("../images/yz.png")
+im2 = Image.open("../images/me.png").convert('RGB').resize((im1.width, im1.height))
 
 im1_np = np.array(im1)
 im2_np = np.array(im2)
