@@ -2,8 +2,8 @@ from PIL import Image, ImageChops
 import numpy as np
 import matplotlib.pyplot as plt
 
-im1 = Image.open("C:/Users/aslan/PycharmProjects/openCV/images/yz.png")
-im2 = Image.open("C:/Users/aslan/PycharmProjects/openCV/images/me.png")
+im1 = Image.open("../images/yz.png")
+im2 = Image.open("../images/me.png")
 
 im1 = im1.resize(im2.size)
 
