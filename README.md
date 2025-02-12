@@ -22,6 +22,7 @@ Röntgen, MR, CT taramaları gibi medikal görüntülerin işlenmesi, hastalık 
 -------------------------------
 Optik Karakter Tanıma (OCR):
 Görüntülerdeki yazıları dijital metne dönüştürmek. Örneğin, taranmış belgeleri metne çevirmek.
+
 ------------------------------
 Görüntü İyileştirme:
 Düşük kaliteli görüntülerin iyileştirilmesi (örneğin, parlaklık, kontrast ayarları veya gürültü azaltma).
