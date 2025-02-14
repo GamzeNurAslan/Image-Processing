@@ -6,7 +6,7 @@ from scipy import signal
 import scipy.ndimage as ndimage
 import numpy.fft as fp
 
-image_path = 'C:/Users/aslan/PycharmProjects/openCV/images/me.png'
+image_path = '../images/me.png'
 
 im = np.mean(imread(image_path), axis=2)
 
