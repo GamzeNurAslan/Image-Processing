@@ -12,7 +12,7 @@ import timeit
 
 pylab.figure(figsize=(20, 15))
 pylab.gray()
-im = np.mean(imread('C:/Users/aslan/PycharmProjects/openCV/images/me.png'), axis=2)
+im = np.mean(imread('../images/me.png'), axis=2)
 
 gauss_kernel = gaussian(im, sigma=5)
 
